@@ -42,6 +42,11 @@ Starg3n has a wide variety of games. From ports to rom collections to emulators 
 ## Documentation
 Starg3n being open source means that anyone can fork and edit their own copy. Because of this, Starg3n has an extensive **[Wiki](https://github.com/starg3n/starg3n.github.io/wiki)** with documentation on forking, contributing, making sites similar to starg3n, and other useful information, such as game documentation for findning ds roms, flash roms, and more.
 
+## Official Mirrors
+If starg3n ever goes down, for any reason, these are official mirrors, still branded as Starg3n. 
+Want to add **your** mirror here? contact me on discord: _appakling_ or make a discussion with your link.
+- [LOVEWAREZ Mirror](https://lovewarez.github.io/)
+
 ## To do
 - [ ] fix issues
 - [ ] document stuff as it's added 
